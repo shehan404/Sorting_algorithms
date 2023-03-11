@@ -2,7 +2,7 @@
 
 Sorting algorithms are used for rearranging items in an array or a list. Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Counting Sort, Radix Sort are popular sorting algorithms.
 
-In this repository above sorting algorithms have been implemented using python.
+In this repository above sorting algorithms have been implemented using python to output the **ascending order**.
 
 
 ## 1. Bubble Sort
