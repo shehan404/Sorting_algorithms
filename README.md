@@ -20,3 +20,16 @@ Bubble sort is a simple sorting algorithm that repeatedly swaps adjacent element
 * Worst - O(1)
 
 
+## 2. Selection Sort
+
+In selection sort smallest element of the unsorted portion is swapped with the first element of the unsorted portion.This process is done repeatedly until whole list is sorted.
+
+<img src="images/selection_sort.gif" width="400" >
+
+### Time comlexity
+* Best Case - Ω(n<sup>2</sup>)
+* Avarage Case - θ(n<sup>2</sup>)
+* Worst Case - O(n<sup>2</sup>)
+
+### Space comlexity
+* Worst - O(1)
