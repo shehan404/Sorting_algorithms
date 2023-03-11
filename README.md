@@ -11,7 +11,7 @@ Bubble sort is a simple sorting algorithm that repeatedly swaps adjacent element
 
 <img src="images/bubble_sort.gif" width="400" >
 
-Time comlexity
+### Time comlexity
 * Best Case - Ω(n)
 * Avarage Case - θ(n<sup>2</sup>)
 * Worst Case - O(n<sup>2</sup>)
