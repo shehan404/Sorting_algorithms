@@ -17,7 +17,7 @@ Bubble sort is a simple sorting algorithm that repeatedly swaps adjacent element
 * Worst Case - O(n<sup>2</sup>)
 
 ### Space comlexity
-* Worst - O(1)
+* Worst Case - O(1)
 
 
 ## 2. Selection Sort
@@ -32,4 +32,19 @@ In selection sort smallest element of the unsorted portion is swapped with the f
 * Worst Case - O(n<sup>2</sup>)
 
 ### Space comlexity
-* Worst - O(1)
+* Worst Case - O(1)
+
+
+## 2. Insertion Sort
+
+Array is divided into two parts that sorted and unsorted by considering first element of the array is sorted. Then next element is placed in correct position in the sorted part of the array.
+
+<img src="images/insertion_sort.gif" width="400" >
+
+### Time comlexity
+* Best Case - Ω(n)
+* Avarage Case - θ(n<sup>2</sup>)
+* Worst Case - O(n<sup>2</sup>)
+
+### Space comlexity
+* Worst Case - O(1)
