@@ -11,12 +11,12 @@ Bubble sort is a simple sorting algorithm that repeatedly swaps adjacent element
 
 <img src="images/bubble_sort.gif" width="400" >
 
-### Time comlexity
+### Time complexity
 * Best Case - Ω(n)
 * Avarage Case - θ(n<sup>2</sup>)
 * Worst Case - O(n<sup>2</sup>)
 
-### Space comlexity
+### Space complexity
 * Worst Case - O(1)
 
 
@@ -26,12 +26,12 @@ In selection sort smallest element of the unsorted portion is swapped with the f
 
 <img src="images/selection_sort.gif" width="400" >
 
-### Time comlexity
+### Time complexity
 * Best Case - Ω(n<sup>2</sup>)
 * Avarage Case - θ(n<sup>2</sup>)
 * Worst Case - O(n<sup>2</sup>)
 
-### Space comlexity
+### Space complexity
 * Worst Case - O(1)
 
 
@@ -41,10 +41,10 @@ Array is divided into two parts that sorted and unsorted by considering first el
 
 <img src="images/insertion_sort.gif" width="400" >
 
-### Time comlexity
+### Time complexity
 * Best Case - Ω(n)
 * Avarage Case - θ(n<sup>2</sup>)
 * Worst Case - O(n<sup>2</sup>)
 
-### Space comlexity
+### Space complexity
 * Worst Case - O(1)
