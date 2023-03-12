@@ -35,7 +35,7 @@ In selection sort smallest element of the unsorted portion is swapped with the f
 * Worst Case - O(1)
 
 
-## 2. Insertion Sort
+## 3. Insertion Sort
 
 Array is divided into two parts that sorted and unsorted by considering first element of the array is sorted. Then next element is placed in correct position in the sorted part of the array.
 
@@ -48,3 +48,18 @@ Array is divided into two parts that sorted and unsorted by considering first el
 
 ### Space complexity
 * Worst Case - O(1)
+
+
+## 4. Merge Sort
+
+Divide and conquer method is used in merge sort algorithm. The unsorted array is divided into small subarrays and then they sorted and merged to obtain sorted array
+
+<img src="images/merge_sort.gif" width="400" >
+
+### Time complexity
+* Best Case - Ω(n log(n))
+* Avarage Case - θ(n log(n))
+* Worst Case - O(n log(n))
+
+### Space complexity
+* Worst Case - O(n)
