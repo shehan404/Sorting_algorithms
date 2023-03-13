@@ -52,7 +52,7 @@ Array is divided into two parts that sorted and unsorted by considering first el
 
 ## 4. Merge Sort
 
-Divide and conquer method is used in merge sort algorithm. The unsorted array is divided into small subarrays and then they sorted and merged to obtain sorted array
+Divide and conquer method is used in merge sort algorithm. The unsorted array is divided into small subarrays and then they sorted and merged to obtain sorted array.
 
 <img src="images/merge_sort.gif" width="400" >
 
@@ -60,6 +60,21 @@ Divide and conquer method is used in merge sort algorithm. The unsorted array is
 * Best Case - Ω(n log(n))
 * Avarage Case - θ(n log(n))
 * Worst Case - O(n log(n))
+
+### Space complexity
+* Worst Case - O(n)
+
+
+## 5. Quick Sort
+
+Divide and conquer method is used in quick sort algorithm like in merge sort. First element last element median element or a random element of the array is chosen as the pivot point. Then pivot point is sorted an then left and right part from the pivot point is sorted recursively.
+
+<img src="images/merge_sort.gif" width="400" >
+
+### Time complexity
+* Best Case - Ω(n log(n))
+* Avarage Case - θ(n log(n))
+* Worst Case - O(n<sup>2</sup>)
 
 ### Space complexity
 * Worst Case - O(n)
